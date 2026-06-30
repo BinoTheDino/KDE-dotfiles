@@ -18,7 +18,7 @@
 |[Darkly](https://github.com/Bali10050/Darkly)|Application Style||
 |[Sierra Breeze Enhanced](https://github.com/kupiqu/SierraBreezeEnhanced)|Window Decorations||
 |[Yet-Another-Monochrome-Icon-Set](https://store.kde.org/p/2303161)|Icons||
-|[KDE-Rounded_corners](https://github.com/matinlotfali/KDE-Rounded-Corners)|Border Outline|When using with krohnkite, uncheck "disbale outline on tile" in it's settings|
+|[KDE-Rounded_corners](https://github.com/matinlotfali/KDE-Rounded-Corners)|Border Outline|When using with krohnkite, uncheck "disable outline on tile" in it's settings|
 
 
 
