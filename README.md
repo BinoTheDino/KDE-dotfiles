@@ -9,7 +9,7 @@
 |[Plasmusic Toolbar](https://github.com/ccatterina/plasmusic-toolbar)|Media Display||
 |[Kurve](https://github.com/luisbocanegra/kurve)|Visualizer||
 |[Kara](https://github.com/dhruv8sh/kara)|Pager||
-|[KDE Material Colors](https://github.com/luisbocanegra/kde-material-you-colors)|Color Theming||
+|[KDE Material Colors](https://github.com/luisbocanegra/kde-material-you-colors)|Color Theming|Set the color to "Accent from color scheme" in settings so that it matches|
 |[Panel Colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer)|Bar Theming||
 |[Kitty](https://github.com/kovidgoyal/kitty)|Terminal||
 |[Fuzzel](https://codeberg.org/dnkl/fuzzel)|App Launcher||
@@ -18,5 +18,7 @@
 |[Darkly](https://github.com/Bali10050/Darkly)|Application Style||
 |[Sierra Breeze Enhanced](https://github.com/kupiqu/SierraBreezeEnhanced)|Window Decorations||
 |[Yet-Another-Monochrome-Icon-Set](https://store.kde.org/p/2303161)|Icons||
-|[KDE-Rounded_corners](https://github.com/matinlotfali/KDE-Rounded-Corners)|Border Outline||
+|[KDE-Rounded_corners](https://github.com/matinlotfali/KDE-Rounded-Corners)|Border Outline|When using with krohnkite, uncheck "disbale outline on tile" in it's settings|
+
+
 
